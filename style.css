@@ -1,9 +1,10 @@
 body {
     font-family: 'Arial', sans-serif;
-    line-height: 1.6;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
 }
 
 header {
@@ -34,11 +35,11 @@ h2 {
     margin-bottom: 15px;
 }
 
-.project {
+.project, .experience {
     margin-bottom: 20px;
 }
 
-.project a {
+.project a, .experience a {
     display: inline-block;
     margin-top: 10px;
     padding: 5px 10px;
